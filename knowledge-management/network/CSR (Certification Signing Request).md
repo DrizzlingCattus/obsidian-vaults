@@ -6,7 +6,7 @@ CSR에는 다음과 같은 데이터가 포함됩니다.
 - 서버의 공개키
 - 외 메타 정보 (회사명 등)
 
-CSR은 Base64 인코딩되고 아래와 같은 형태입니다.
+CSR은 Base64 인코딩되고 아래와 같은 형태이고, 보통 private 키와 같이 만들어지거나 먼저 만들어야합니다. (public 키를 CSR에 포함시켜야 하기 때문에)
 ```
 -----BEGIN CERTIFICATE REQUEST-----
 MIICuzCCAaMCAQAwdjELMAkGA1UEBhMCS1IxDjAMBgNVBAgMBVNlb3VsMRIwEAYD
@@ -27,4 +27,7 @@ R5OBbZLQ5mZn2T/2eyhxaWAE/TveK83N8rOjVl+oVvqXpyNayTgHZZn9pu7EHOfv
 -----END CERTIFICATE REQUEST-----
 ```
 
+[[OpenSSL#1 CSR 만들기]] 을 참고해도 좋다.
+
 CSR 생성 사이트 : https://www.anycert.co.kr/extra_svc/csr_setup
+
