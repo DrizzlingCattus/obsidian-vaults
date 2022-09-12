@@ -1,4 +1,5 @@
 {
   "showLineNumber": true,
-  "attachmentFolderPath": "./resources"
+  "attachmentFolderPath": "./resources",
+  "alwaysUpdateLinks": true
 }
