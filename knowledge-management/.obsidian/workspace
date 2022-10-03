@@ -4,12 +4,14 @@
     "type": "split",
     "children": [
       {
-        "id": "0f4ac97743f861da",
+        "id": "b450fe0c5cf339be",
         "type": "leaf",
         "state": {
-          "type": "excalidraw",
+          "type": "markdown",
           "state": {
-            "file": "network/resources/entire-flow-certification.excalidraw.md"
+            "file": "engineering-concept/ACID와 CAP.md",
+            "mode": "source",
+            "source": false
           }
         }
       }
@@ -59,7 +61,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200.5
+    "width": 317.5
   },
   "right": {
     "id": "ea3910f8fedf3dd8",
@@ -75,14 +77,14 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "network/resources/entire-flow-certification.excalidraw.md",
+                "file": "engineering-concept/ACID와 CAP.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               }
             }
           },
@@ -92,7 +94,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "network/resources/entire-flow-certification.excalidraw.md",
+                "file": "engineering-concept/ACID와 CAP.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -115,7 +117,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "network/resources/entire-flow-certification.excalidraw.md"
+                "file": "engineering-concept/ACID와 CAP.md"
               }
             }
           }
@@ -123,20 +125,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
-  "active": "ab980b6713b328cf",
+  "active": "b450fe0c5cf339be",
   "lastOpenFiles": [
-    "network/resources/Drawing 2022-08-22 18.14.11.excalidraw.md",
-    "linux/resources/Pasted image 20220917173009.png",
-    "temp-memo/임시 오늘 할일 메모.md",
-    "vim/word vs WORD.md",
+    "real-mysql/5. 트랜잭션과 잠금.md",
+    "engineering-concept/ACID와 CAP.md",
+    "engineering-concept/정합성과 무결성.md",
+    "real-mysql/9. 옵티마이져와 힌트.md",
+    "engineering-concept/Service Provider란.md",
     "linux/(책) 리눅스 커널 이야기 - Top을 통해 살펴보는 프로세스 정보.md",
-    "linux/resources/Drawing-memory-structure.excalidra.md",
     "linux/(책) 리눅스 커널 이야기 - 시스템 구성 정보 확인하기.md",
-    "network/TLS Termination Proxy.md",
-    "network/resources/Pasted image 20220912181652.png",
-    "temp-memo/Flashcard Test.md"
+    "book-dictionary/오직 두 사람 - 김영하.md",
+    "mysql/Json type column.md",
+    "mysql/cluster index와 non-cluster index.md"
   ]
 }

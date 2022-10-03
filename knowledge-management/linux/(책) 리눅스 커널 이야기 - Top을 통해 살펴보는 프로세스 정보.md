@@ -37,9 +37,8 @@ MiB Swap:      0.0 total,      0.0 free,      0.0 used.    656.3 avail Mem
 	- VIRT, RES, SHR : 프로세스가 사용하는 메모리 양. 프로세스 메모리 누수 판단에 사용.
 	- S : status. 프로세스 상태. CPU 사용 중인지. I/O를 기다리는 중인지. 유휴 상태인지.
 
+
 ## VIRT, RES, SHR
-
-
 ```bash
 45. VIRT  --  Virtual Memory Size (KiB)
            The  total  amount  of virtual memory used by the task.  It includes all code, data and shared libraries plus pages that have been swapped out and pages that have
