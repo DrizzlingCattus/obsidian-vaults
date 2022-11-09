@@ -9,7 +9,7 @@
         "state": {
           "type": "markdown",
           "state": {
-            "file": "engineering-concept/ACID와 CAP.md",
+            "file": "real-mysql/16. 복제.md",
             "mode": "source",
             "source": false
           }
@@ -61,7 +61,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 317.5
+    "width": 100,
+    "collapsed": true
   },
   "right": {
     "id": "ea3910f8fedf3dd8",
@@ -77,7 +78,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "engineering-concept/ACID와 CAP.md",
+                "file": "real-mysql/16. 복제.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -94,7 +95,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "engineering-concept/ACID와 CAP.md",
+                "file": "real-mysql/16. 복제.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -117,7 +118,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "engineering-concept/ACID와 CAP.md"
+                "file": "real-mysql/16. 복제.md"
               }
             }
           }
@@ -125,19 +126,19 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 213.5
   },
   "active": "b450fe0c5cf339be",
   "lastOpenFiles": [
     "real-mysql/5. 트랜잭션과 잠금.md",
+    "real-mysql/9. 옵티마이져와 힌트.md",
+    "real-mysql/16. 복제.md",
+    "book-dictionary/오직 두 사람 - 김영하.md",
+    "book-dictionary/먼 북소리 - 무라카미 하루키.md",
     "engineering-concept/ACID와 CAP.md",
     "engineering-concept/정합성과 무결성.md",
-    "real-mysql/9. 옵티마이져와 힌트.md",
     "engineering-concept/Service Provider란.md",
     "linux/(책) 리눅스 커널 이야기 - Top을 통해 살펴보는 프로세스 정보.md",
-    "linux/(책) 리눅스 커널 이야기 - 시스템 구성 정보 확인하기.md",
-    "book-dictionary/오직 두 사람 - 김영하.md",
-    "mysql/Json type column.md",
-    "mysql/cluster index와 non-cluster index.md"
+    "linux/(책) 리눅스 커널 이야기 - 시스템 구성 정보 확인하기.md"
   ]
 }
